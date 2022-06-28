@@ -1,4 +1,4 @@
-#Minecraft SkyBlock server
+# Minecraft SkyBlock server
 
 
 **Here are some ideas to get you started:**
